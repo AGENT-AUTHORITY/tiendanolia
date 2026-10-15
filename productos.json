@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Pulsera RAW rosa y violeta",
+    "category": "Color",
+    "image": "assets/pulsera-01.webp",
+    "price": 1750,
+    "size": "chica",
+    "description": "Pulsera artesanal con su tarjeta original."
+  },
+  {
+    "id": 2,
+    "name": "Pulsera RAW dinosaurios",
+    "category": "Amistad",
+    "image": "assets/pulsera-02.webp",
+    "price": 1750,
+    "size": "chica",
+    "description": "Pulsera artesanal con su tarjeta original."
+  },
+  {
+    "id": 3,
+    "name": "Pulsera pompones blancos",
+    "category": "Minimal",
+    "image": "assets/pulsera-03.webp",
+    "price": 1750,
+    "size": "chica",
+    "description": "Pulsera artesanal con su tarjeta original."
+  },
+  {
+    "id": 4,
+    "name": "Pulsera caritas y corazones",
+    "category": "Color",
+    "image": "assets/pulsera-04.webp",
+    "price": 1750,
+    "size": "chica",
+    "description": "Pulsera artesanal con su tarjeta original."
+  },
+  {
+    "id": 5,
+    "name": "Pulsera sonrisas",
+    "category": "Color",
+    "image": "assets/pulsera-05.webp",
+    "price": 1750,
+    "size": "chica",
+    "description": "Pulsera artesanal con su tarjeta original."
+  },
+  {
+    "id": 6,
+    "name": "Pulsera de cuentas pastel",
+    "category": "Amistad",
+    "image": "assets/pulsera-06.webp",
+    "price": 1750,
+    "size": "chica",
+    "description": "Pulsera artesanal con su tarjeta original."
+  },
+  {
+    "id": 7,
+    "name": "Pulsera yin yang roja y amarilla",
+    "category": "Amistad",
+    "image": "assets/pulsera-07.webp",
+    "price": 1750,
+    "size": "chica",
+    "description": "Pulsera artesanal con su tarjeta original."
+  },
+  {
+    "id": 8,
+    "name": "Pulsera Friends ositos",
+    "category": "Amistad",
+    "image": "assets/pulsera-08.webp",
+    "price": 1750,
+    "size": "chica",
+    "description": "Pulsera artesanal con su tarjeta original."
+  },
+  {
+    "id": 9,
+    "name": "Pulsera caracoles perlados",
+    "category": "Minimal",
+    "image": "assets/pulsera-09.webp",
+    "price": 1750,
+    "size": "chica",
+    "description": "Pulsera artesanal con su tarjeta original."
+  }
+]
