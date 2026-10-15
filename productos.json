@@ -1,83 +1,172 @@
 [
   {
     "id": 1,
-    "name": "Pulsera RAW rosa y violeta",
-    "category": "Color",
-    "image": "assets/pulsera-01.webp",
+    "name": "Estrellita de mar",
+    "category": "Colores",
+    "kind": "individual",
     "price": 1750,
-    "size": "chica",
-    "description": "Pulsera artesanal con su tarjeta original."
+    "image": "assets/pulsera-01.webp",
+    "description": "Una estrellita del mar para recordar que siempre hay algo lindo esperándote.",
+    "subtitle": "Mar y sueños",
+    "original": "IMG_6538.jpeg",
+    "sizes": [
+      "6-8",
+      "9-13",
+      "13+"
+    ],
+    "size_stock_unconfirmed": true
   },
   {
     "id": 2,
-    "name": "Pulsera RAW dinosaurios",
+    "name": "Corazoncito rosa",
     "category": "Amistad",
-    "image": "assets/pulsera-02.webp",
+    "kind": "individual",
     "price": 1750,
-    "size": "chica",
-    "description": "Pulsera artesanal con su tarjeta original."
+    "image": "assets/pulsera-02.webp",
+    "description": "Para que lleves un abracito cerca, incluso cuando estemos lejitos.",
+    "subtitle": "Un abracito",
+    "original": "IMG_6548.jpeg",
+    "sizes": [
+      "6-8",
+      "9-13",
+      "13+"
+    ],
+    "size_stock_unconfirmed": true
   },
   {
     "id": 3,
-    "name": "Pulsera pompones blancos",
-    "category": "Minimal",
-    "image": "assets/pulsera-03.webp",
+    "name": "Estrellitas felices",
+    "category": "Colores",
+    "kind": "individual",
     "price": 1750,
-    "size": "chica",
-    "description": "Pulsera artesanal con su tarjeta original."
+    "image": "assets/pulsera-03.webp",
+    "description": "Cada estrellita tiene una sonrisa. Ojalá la tuya brille así de fuerte hoy.",
+    "subtitle": "Lluvia de sonrisas",
+    "original": "IMG_6545.jpeg",
+    "sizes": [
+      "6-8",
+      "9-13",
+      "13+"
+    ],
+    "size_stock_unconfirmed": true
   },
   {
     "id": 4,
-    "name": "Pulsera caritas y corazones",
-    "category": "Color",
-    "image": "assets/pulsera-04.webp",
+    "name": "Mi inicial favorita",
+    "category": "Detalles",
+    "kind": "individual",
     "price": 1750,
-    "size": "chica",
-    "description": "Pulsera artesanal con su tarjeta original."
+    "image": "assets/pulsera-04.webp",
+    "description": "Hay letras que son especiales porque nos recuerdan a alguien que queremos mucho.",
+    "subtitle": "Una letra especial",
+    "original": "IMG_6553.jpeg",
+    "sizes": [
+      "6-8",
+      "9-13",
+      "13+"
+    ],
+    "size_stock_unconfirmed": true
   },
   {
     "id": 5,
-    "name": "Pulsera sonrisas",
-    "category": "Color",
-    "image": "assets/pulsera-05.webp",
+    "name": "Rayitas de alegría",
+    "category": "Colores",
+    "kind": "individual",
     "price": 1750,
-    "size": "chica",
-    "description": "Pulsera artesanal con su tarjeta original."
+    "image": "assets/pulsera-05.webp",
+    "description": "Un montón de colores juntitos, como los días más felices.",
+    "subtitle": "A todo color",
+    "original": "IMG_6555.jpeg",
+    "sizes": [
+      "6-8",
+      "9-13",
+      "13+"
+    ],
+    "size_stock_unconfirmed": true
   },
   {
     "id": 6,
-    "name": "Pulsera de cuentas pastel",
+    "name": "Juntas brillamos",
     "category": "Amistad",
-    "image": "assets/pulsera-06.webp",
+    "kind": "individual",
     "price": 1750,
-    "size": "chica",
-    "description": "Pulsera artesanal con su tarjeta original."
+    "image": "assets/pulsera-06.webp",
+    "description": "Aunque seamos diferentes, juntas podemos hacer cosas hermosas.",
+    "subtitle": "Brillamos juntas",
+    "original": "IMG_6561.jpeg",
+    "sizes": [
+      "6-8",
+      "9-13",
+      "13+"
+    ],
+    "size_stock_unconfirmed": true
   },
   {
     "id": 7,
-    "name": "Pulsera yin yang roja y amarilla",
+    "name": "Amigas por siempre",
     "category": "Amistad",
-    "image": "assets/pulsera-07.webp",
+    "kind": "individual",
     "price": 1750,
-    "size": "chica",
-    "description": "Pulsera artesanal con su tarjeta original."
+    "image": "assets/pulsera-07.webp",
+    "description": "La amistad es un regalo chiquito que hace enorme al corazón.",
+    "subtitle": "Nuestra amistad",
+    "original": "IMG_6563.jpeg",
+    "sizes": [
+      "6-8",
+      "9-13",
+      "13+"
+    ],
+    "size_stock_unconfirmed": true
   },
   {
     "id": 8,
-    "name": "Pulsera Friends ositos",
-    "category": "Amistad",
+    "name": "Dúo de sonrisitas",
+    "category": "Dúos",
+    "kind": "doble",
+    "price": 2500,
     "image": "assets/pulsera-08.webp",
-    "price": 1750,
-    "size": "chica",
-    "description": "Pulsera artesanal con su tarjeta original."
+    "description": "Dos pulseritas y un mismo deseo: que nunca te falte alguien con quien reír.",
+    "subtitle": "Dos para sonreír",
+    "original": "IMG_6572.jpeg",
+    "sizes": [
+      "6-8",
+      "9-13",
+      "13+"
+    ],
+    "size_stock_unconfirmed": true
   },
   {
     "id": 9,
-    "name": "Pulsera caracoles perlados",
-    "category": "Minimal",
-    "image": "assets/pulsera-09.webp",
+    "name": "Nubecitas de amor",
+    "category": "Detalles",
+    "kind": "individual",
     "price": 1750,
-    "size": "chica",
-    "description": "Pulsera artesanal con su tarjeta original."
+    "image": "assets/pulsera-09.webp",
+    "description": "Cuatro pomponcitos suaves, como abrazos chiquititos para llevar a todos lados.",
+    "subtitle": "Abracitos suaves",
+    "original": "IMG_6574.jpeg",
+    "sizes": [
+      "6-8",
+      "9-13",
+      "13+"
+    ],
+    "size_stock_unconfirmed": true
+  },
+  {
+    "id": 10,
+    "name": "Caracolitos de deseos",
+    "category": "Detalles",
+    "kind": "individual",
+    "price": 1750,
+    "image": "assets/pulsera-10.webp",
+    "description": "Un pedacito de mar para guardar sueños, secretos y deseos bonitos.",
+    "subtitle": "Un deseo para vos",
+    "original": "IMG_6585.jpeg",
+    "sizes": [
+      "6-8",
+      "9-13",
+      "13+"
+    ],
+    "size_stock_unconfirmed": true
   }
 ]
