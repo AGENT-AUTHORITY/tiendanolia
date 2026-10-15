@@ -1,0 +1,1 @@
+NOLIA tienda pastel. Subir index.html a GitHub Pages. Configurar en index.html: const whatsapp= numero con codigo de pais sin +, const instagram= usuario sin @, const prices= objeto con indice de producto y precio ARS. Ejemplo: const prices={0:3500,1:4200}; Sin precios se solicita confirmacion por WhatsApp.
